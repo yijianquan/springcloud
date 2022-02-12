@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "test.uri",
+      "type": "java.lang.String",
+      "description": "Description for test.uri."
+  }
+] }
